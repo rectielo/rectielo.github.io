@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rectielo.github.io/sitemap.html.gz
+Sitemap: https://rectielo.github.io/app/sitemap.html.gz
+Sitemap: https://rectielo.github.io/assets/sitemap.html.gz
+Sitemap: https://rectielo.github.io/css/sitemap.html.gz
+Sitemap: https://rectielo.github.io/includes/sitemap.html.gz
+Sitemap: https://rectielo.github.io/item/sitemap.html.gz
+Sitemap: https://rectielo.github.io/src/sitemap.html.gz
